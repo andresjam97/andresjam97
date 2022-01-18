@@ -1,4 +1,4 @@
-## Hi i'm Ivan Andres Castro Ruiz i'm a fullstack web developer
+## Hi i'm Ivan Andres Castro Ruiz Fullstack web developer
 <div align="center">
   <a href="https://github.com/andresjam97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresjam97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
